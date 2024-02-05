@@ -1,6 +1,6 @@
 # Hi there, I'm Thimal Caldera! 👋
 
-I'm a passionate and tech-savvy individual with a knack for solving complex problems through the lens of machine learning. Welcome to my GitHub special repo where I document my journey in the world of technology!
+I'm a passionate and tech-savvy individual with a knack for solving complex problems through the lens of machine learning. Welcome to my GitHub special repo where I document my journey in the world AI !!!
 
 ## 🔧 Technical Skills
 
@@ -35,3 +35,4 @@ I love connecting with fellow developers, tech enthusiasts, and anyone intereste
 I'm always open to new opportunities, collaborations, and interesting discussions. Don't hesitate to drop me a message or open an issue if you have any questions or ideas!
 
 Happy coding! 🚀
+
