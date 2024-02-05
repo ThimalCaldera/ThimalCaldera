@@ -27,6 +27,7 @@ I have a strong academic background, reflecting my commitment to continuous lear
 I love connecting with fellow developers, tech enthusiasts, and anyone interested in the fascinating world of machine learning. Feel free to reach out to me for collaboration, discussions, or just to geek out about the latest tech trends!
 
 - [LinkedIn](www.linkedin.com/in/thimal-caldera-b2836b284)
+- [Email](thimal.sasmitha@gmail.com)
 
 
 ## 📬 Get in Touch
