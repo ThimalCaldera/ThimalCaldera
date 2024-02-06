@@ -1,12 +1,12 @@
 # Hi there, I'm Thimal Caldera! 👋
 
-I'm a passionate and tech-savvy individual with a knack for solving complex problems through the lens of machine learning. Welcome to my GitHub special repo where I document my journey in the world AI !!!
+I'm a passionate and tech-savvy individual with a knack for solving complex problems through the lens of machine learning & deep learning. Welcome to my GitHub special repo where I document my journey in the world AI !!!
 
 ## 🔧 Technical Skills
 
 - **Languages:** Python, Java, SQL, C++
 - **Machine Learning:** Developing and fine-tuning models, Data Science & Exploitary Data Analysis
-- **Nature Inspired Computing** Specialized in Genetic Algorithm, Particle Swarm Optimization Algorithm, Ant Colony Algorithm & Many More !!
+- **Nature Inspired Computing** Specialized in Nature Inspired Algorithms such as Genetic Algorithm, Particle Swarm Optimization Algorithm, Ant Colony Algorithm & Many More 
 - **Frameworks:** Tensorflow, Streamlit, SciKit Learn
   
 
