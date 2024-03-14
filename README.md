@@ -1,6 +1,6 @@
 # Hi there, I'm Thimal Caldera! 👋
 
-I'm a passionate and tech-savvy individual with a knack for solving complex problems through the lens of machine learning & deep learning. Welcome to my GitHub special repo where I document my journey in the world AI !!!
+I'm a passionate and tech-savvy individual with a knack for solving complex problems through the lens of machine learning & deep learning. Welcome to  GitHub repo where I document my journey in the world AI !!!
 
 ## 🔧 Technical Skills
 
@@ -14,9 +14,9 @@ I'm a passionate and tech-savvy individual with a knack for solving complex prob
 
 I actively engage in projects that demonstrate my expertise:
 
-- [Project 1: Description]
-- [Project 2: Description]
-- [Project 3: Description]
+- Use Genetic Algorithm to Improve ML Accuracy
+- KnowFlow---RAG-System-for-PDFs (Using Gemini - Pro)
+- Wheat-CLassification-using-Dense-ANN 
 
 ## 📚 Academic Excellence
 
